@@ -101,6 +101,8 @@ This project is maintained by the Xbox 360 community! Special thanks to:
 - **evangeloush** ([u/3v4ng310u5](https://reddit.com/u/3v4ng310u5)) for helping out with a couple of questions and making an awesome [**tutorial**](https://www.reddit.com/r/360hacks/comments/1j7kaz8/running_actual_Games_on_the_badupdate_exploit/).
 - [**CabooseSayzWTF**](https://github.com/CabooseSayzWTF) for discovering the recommended [**manual patching method**](https://github.com/XDanfr/FMX-Compatibility/wiki/Recommended-method:-How-to-patch-Title-Updates) - many Games would not work or have TUs working **without your work.**
 <!-- CONTRIBUTORS_START -->
+<!-- CONTRIBUTORS_END -->
+<!-- CONTRIBUTORS_START -->
 ### Top Contributors
 | Contributor | Contributions |
 |-------------|---------------|
