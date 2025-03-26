@@ -100,3 +100,18 @@ This project is maintained by the Xbox 360 community! Special thanks to:
 - [**grimdoomer**](https://github.com/grimdoomer) for developing [**Xbox360BadUpdate**](https://github.com/grimdoomer/Xbox360BadUpdate).
 - **evangeloush** ([u/3v4ng310u5](https://reddit.com/u/3v4ng310u5)) for helping out with a couple of questions and making an awesome [**tutorial**](https://www.reddit.com/r/360hacks/comments/1j7kaz8/running_actual_Games_on_the_badupdate_exploit/).
 - [**CabooseSayzWTF**](https://github.com/CabooseSayzWTF) for discovering the recommended [**manual patching method**](https://github.com/XDanfr/FMX-Compatibility/wiki/Recommended-method:-How-to-patch-Title-Updates) - many Games would not work or have TUs working **without your work.**
+<!-- CONTRIBUTORS_START -->
+### Top Contributors
+| Contributor | Contributions |
+|-------------|---------------|
+| [olakase123lol](https://github.com/olakase123lol) | 37 |
+| [lucmsilva651](https://github.com/lucmsilva651) | 3 |
+| [needmorepaper](https://github.com/needmorepaper) | 3 |
+| [boazvdwansem](https://github.com/boazvdwansem) | 1 |
+| [Creativezito](https://github.com/Creativezito) | 1 |
+| [RobertLippai](https://github.com/RobertLippai) | 1 |
+| [Sunne223](https://github.com/Sunne223) | 1 |
+| [butterfingersman](https://github.com/butterfingersman) | 1 |
+| [hj-0](https://github.com/hj-0) | 1 |
+| [pinzit](https://github.com/pinzit) | 1 |
+<!-- CONTRIBUTORS_END -->
