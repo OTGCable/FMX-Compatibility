@@ -141,10 +141,12 @@ This project is maintained by the Xbox 360 community! Special thanks to:
 <!-- CONTRIBUTORS_START -->
 <!-- CONTRIBUTORS_END -->
 <!-- CONTRIBUTORS_START -->
+<!-- CONTRIBUTORS_END -->
+<!-- CONTRIBUTORS_START -->
 ### Top Contributors
 | Contributor | Contributions |
 |-------------|---------------|
-| [olakase123lol](https://github.com/olakase123lol) | 37 |
+| [olakase123lol](https://github.com/olakase123lol) | 38 |
 | [lucmsilva651](https://github.com/lucmsilva651) | 3 |
 | [needmorepaper](https://github.com/needmorepaper) | 3 |
 | [boazvdwansem](https://github.com/boazvdwansem) | 1 |
