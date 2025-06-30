@@ -4303,6 +4303,8 @@ This project is maintained by the Xbox 360 community! Special thanks to:
 <!-- CONTRIBUTORS_START -->
 <!-- CONTRIBUTORS_END -->
 <!-- CONTRIBUTORS_START -->
+<!-- CONTRIBUTORS_END -->
+<!-- CONTRIBUTORS_START -->
 ### Top Contributors
 | Contributor | Contributions |
 |-------------|---------------|
